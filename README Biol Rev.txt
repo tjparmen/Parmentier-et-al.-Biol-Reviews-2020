@@ -14,7 +14,7 @@ GENERAL INFORMATION
 
 4. Geographic location of data collection: Belgium
 
-5. Information about funding sources that supported the collection of the data: FWO (grant 1203020N) and FNRS (30257865)
+5. Information about funding sources that supported the collection of the data: FWO (grant 1203020N) 
 
 
 SHARING/ACCESS INFORMATION
