@@ -1,7 +1,7 @@
 
 GENERAL INFORMATION
 
-1. Title of Dataset: "Differential transport of a guild of mutualistic root aphids by the ant Lasius flavus” published in Current Zoology
+1. Title of Dataset: "The topology and drivers of ant–symbiont networks across Europe” published in Biological Reviews
 
 2. Author Information
 	A. Principal Investigator Contact Information
@@ -23,7 +23,7 @@ SHARING/ACCESS INFORMATION
 
 2. Links to publications that cite or use the data:
 
-Thomas Parmentier, Differential transport of a guild of mutualistic root aphids by the ant Lasius flavus, Current Zoology, Volume 69, Issue 4, August 2023, Pages 409–417, https://doi.org/10.1093/cz/zoac060
+Parmentier, T., De Laender, F. and Bonte, D. (2020), The topology and drivers of ant–symbiont networks across Europe. Biol Rev, 95: 1664-1688. https://doi.org/10.1111/brv.12634
 
 3. Links to other publicly accessible locations of the data: None
 
